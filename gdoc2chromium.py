@@ -6,7 +6,6 @@ string = f.read()
 f.close()
 
 string = string.replace('"','').replace('{','').replace('}','').split(',')
-print string
 for s in string:
     if s.split(':')[0] == 'url':
         break
