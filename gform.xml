@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<mime-info xmlns="http://www.freedesktop.org/standards/shared-mime-info">
+<mime-info xmlns="">
    <mime-type type="application/x-gform">
      <comment>Redirection file for Google Drive Sync Google Form </comment>
      <magic priority="50">
