@@ -7,7 +7,9 @@ rm gdoc2chromium.spec
 sudo cp gdoc.xml /usr/share/mime/packages/
 sudo cp gslide.xml /usr/share/mime/packages/
 sudo cp gsheet.xml /usr/share/mime/packages/
+sudo cp gform.xml /usr/share/mime/packages/
 sudo update-mime-database /usr/share/mime
 echo "application/x-gdoc=gdoc2chromium.desktop" >> $HOME/.local/share/applications/defaults.list
 echo "application/x-gsheet=gdoc2chromium.desktop" >> $HOME/.local/share/applications/defaults.list
 echo "application/x-gslide=gdoc2chromium.desktop" >> $HOME/.local/share/applications/defaults.list
+echo "application/x-gform=gdoc2chromium.desktop" >> $HOME/.local/share/applications/defaults.list
