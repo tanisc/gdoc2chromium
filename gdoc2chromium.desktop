@@ -1,0 +1,11 @@
+[Desktop Entry]
+Name=gdoc2chromium
+Comment=open gdoc files with chromium
+GenericName=Text Editor
+Exec=/usr/share/gdoc2chromium/gdoc2chromium
+Icon=chromium-browser
+Type=Application
+StartupNotify=true
+Categories=;
+MimeType=application/x-gdoc;application/x-gsheet;application/x-gslide;
+Name[en_US]=gdoc2chromium
