@@ -5,6 +5,6 @@
      <magic priority="50">
        <match value="search-string" type="string" offset="10:140"/>
      </magic>
-     <glob pattern="*.gslide"/>
+     <glob pattern="*.gslides"/>
    </mime-type>
 </mime-info>
