@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <mime-info xmlns="">
-   <mime-type type="application/x-gslide">
+   <mime-type type="application/x-gslides">
      <comment>Redirection file for Google Drive Sync Google Slides </comment>
      <magic priority="50">
        <match value="search-string" type="string" offset="10:140"/>
