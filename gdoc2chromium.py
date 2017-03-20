@@ -12,4 +12,5 @@ for s in string:
     else:
         continue
 
-system('chromium-browser ' + s.replace('url: ',''))
+#system('chromium-browser ' + s.replace('url: ',''))
+system('google-chrome ' + s.replace('url: ',''))
