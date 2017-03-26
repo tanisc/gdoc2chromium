@@ -1,3 +1,9 @@
+#!/bin/bash
+
+if [[ -d /usr/share/gdoc2chromium ]]; then
+	sudo rm -rf /usr/share/gdoc2chromium;
+fi
+
 sudo mkdir /usr/share/gdoc2chromium
 sudo cp gdoc2chromium /usr/share/gdoc2chromium/gdoc2chromium
 sudo cp gdoc2chromium.desktop /usr/share/applications/gdoc2chromium.desktop
