@@ -7,5 +7,5 @@ Icon=chromium-browser
 Type=Application
 StartupNotify=true
 Categories=;
-MimeType=application/x-gdoc;application/x-gsheet;application/x-gslide;application/x-gform
+MimeType=application/x-gdoc;application/x-gsheet;application/x-gslide;application/x-gform;
 Name[en_US]=gdoc2chromium
