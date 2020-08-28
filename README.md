@@ -9,3 +9,4 @@ To compile and install from source code, use install_compile.sh.
 
 To install pre-compiled binary, use install_binary.sh.
 
+THIS REPOSITORY IS NOT MAINTANED AS I STARTED USING INSYNC, WHICH ALREADY HAS THIS FEATURE.
